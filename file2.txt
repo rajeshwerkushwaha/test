@@ -1,2 +1,3 @@
-This is file2.
+This is file2 and its updated in branch1.
 This file is also updated in branch1.
+Updated file.
