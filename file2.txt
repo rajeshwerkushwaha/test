@@ -1,3 +1,5 @@
 This is file2 and its updated in branch1.
+Conflict is here...
 This file is also updated in branch1.
 Updated file.
+Again Updted
