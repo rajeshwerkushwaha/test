@@ -1,15 +1,1 @@
-This is file one updated in branch1.
-This file is updated in branch1.
-Updated file.
-New content added.
-new changes aaj kiye
-new changs with conflicts
-testing new changes lets see
-update kiya hai local pe 3:47 pe
-updated by golu on 3:48am
-
-rajesh
-updated by rajesh
-//golu's code was improper
-
-rajesh : 4:48 n
+home : 4:47 am
